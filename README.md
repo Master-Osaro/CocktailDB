@@ -4,7 +4,7 @@
 
 Website to fetch open, crowd-sourced database of drinks and cocktails thecpcktaildb.com.
 
-[View Live Demo](https://coctaildbr.netlify.app/)
+[View Live Demo](https://cocktaildbr.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
