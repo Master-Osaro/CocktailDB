@@ -1,8 +1,10 @@
 # CocktailDB
 
-[LiveLink](https://coctaildbr.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/aff10d03-ea05-4ea8-8b4b-761e699b80fc/deploy-status)](https://app.netlify.com/sites/coctaildbr/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aff10d03-ea05-4ea8-8b4b-761e699b80fc/deploy-status)](https://app.netlify.com/sites/coctaildbr/deploys)
 
 Website to fetch open, crowd-sourced database of drinks and cocktails thecpcktaildb.com.
+
+[View Live Demo](https://coctaildbr.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
