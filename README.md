@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aff10d03-ea05-4ea8-8b4b-761e699b80fc/deploy-status)](https://app.netlify.com/sites/coctaildbr/deploys)
 
-Website to fetch open, crowd-sourced database of drinks and cocktails thecpcktaildb.com.
+Website to fetch open, crowd-sourced database of drinks and cocktails from thecocktaildb.com.
 
 [View Live Demo](https://cocktaildbr.netlify.app/)
 
