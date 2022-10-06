@@ -6,7 +6,7 @@ Website to fetch open, crowd-sourced database of drinks and cocktails from theco
 
 [View Live Demo](https://cocktaildbr.netlify.app/)
 
-This project used [Thecocktaildb's](https://www.thecocktaildb.com/) free API was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project used [Thecocktaildb's](https://www.thecocktaildb.com/) free API was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). A project from [@john-smilga](https://github.com/john-smilga) 15 react projects series on youtube.
 
 ## Available Scripts
 
